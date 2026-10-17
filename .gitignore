@@ -1,0 +1,4 @@
+out/
+res/res_assets.h
+tools/build/
+tools/__pycache__/
